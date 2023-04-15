@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bb-shota
-- 👀 I’m interested in UE4, Python, C++.
+- 👀 I’m interested in Python, C++.
 - 🌱 I’m currently learning these..
 
 <!---
